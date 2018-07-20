@@ -3,12 +3,15 @@ body {
   color: black;
 }
 
+table.center {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 td {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 10px;
   padding-left: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
