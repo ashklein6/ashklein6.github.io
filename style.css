@@ -21,3 +21,8 @@ td {
  margin: 10px;
  padding: 10px;
 }
+
+.jumbotron{
+ border-color: black;
+ border-width: 10px;
+}
