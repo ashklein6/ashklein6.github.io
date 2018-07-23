@@ -20,7 +20,7 @@ a {
   color: black; 
 }
 
-jumbotron{
+.jumbotron{
  border-color: black;
  border-width: 10px;
 }
@@ -31,4 +31,7 @@ jumbotron{
  padding: 10px;
 }
 
+.gray{
+  background-color: #eeeeee
+}
 
