@@ -1,6 +1,10 @@
 body {
   font-family: 'Playfair Display', serif;
   color: black;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 table.center {
